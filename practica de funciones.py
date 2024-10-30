@@ -1,4 +1,4 @@
-print("Mejia Suarez Emmanuel Alexander: practica de funciones")
+print("Mejia Suarez Emmanuel Alexander_3w_1197: practica de funciones")
 
 # 1. Definiendo una función simple que imprime un mensaje
 def my_function():
